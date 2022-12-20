@@ -6,8 +6,9 @@
 
 #### <h1 align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=mulosbron&theme=highcontrast&hide_border=false)<br/></h1>
 
-### Contact
-* [Discord](https://discordapp.com/users/643428003329867787)
+### **Contact**
+* [**Discord**](https://discordapp.com/users/643428003329867787)
+* [**Twitter**](https://twitter.com/mulosbron)
 
 ## <h1 align="center">Mainnet</h1>
 
