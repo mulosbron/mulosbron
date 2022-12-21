@@ -30,5 +30,6 @@
 ![bundlr](https://user-images.githubusercontent.com/91866065/208511284-0b3b9313-2e1d-4a1f-affd-65c9e257a784.png)
 ![minima](https://user-images.githubusercontent.com/91866065/208512627-41ae5620-3353-403e-b930-a121a4367951.png)
 ![Sui (1)](https://user-images.githubusercontent.com/91866065/208696034-c1ef2394-38c0-4b76-8dda-60290723a16c.png)
-![humanode](https://user-images.githubusercontent.com/91866065/208512908-2dc0f053-993e-4f09-9360-3b6f7ec78def.png)
+![humanode (1)](https://user-images.githubusercontent.com/91866065/208512908-2dc0f053-993e-4f09-9360-3b6f7ec78def.png)
 ![Exorde (1)](https://user-images.githubusercontent.com/91866065/208631058-c6b79e96-c800-4a99-a0da-395d1fc9f352.png)
+![nibiru (1)](https://user-images.githubusercontent.com/91866065/208971117-c87f2b91-6628-49e4-b570-28627f96cbe5.png)
