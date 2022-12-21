@@ -14,7 +14,7 @@
 
 ![humanode](https://user-images.githubusercontent.com/91866065/208512908-2dc0f053-993e-4f09-9360-3b6f7ec78def.png)
 
-## <h1 align="center">Testnet</h1>
+## <h1 align="center">Testnet/Devnet</h1>
 
 ![gitopia (1)](https://user-images.githubusercontent.com/91866065/208509431-f052dc36-77ad-4ffb-a510-7ab5f2deb143.png)
 ![quicksilver (1)](https://user-images.githubusercontent.com/91866065/208509434-91c93557-4faa-4af8-b05c-d25438fa0ef6.png)
