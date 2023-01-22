@@ -33,5 +33,6 @@
 ![Exorde](https://user-images.githubusercontent.com/91866065/208631058-c6b79e96-c800-4a99-a0da-395d1fc9f352.png)
 ![Nibiru](https://user-images.githubusercontent.com/91866065/208971117-c87f2b91-6628-49e4-b570-28627f96cbe5.png)
 ![Stafihub](https://user-images.githubusercontent.com/91866065/209447997-282224f0-deb6-4ff3-b69f-914e080e9d53.png)
-![Taiko](https://user-images.githubusercontent.com/91866065/213928444-6e561c22-e829-467b-8031-26d015f002b8.png)
+![Taiko](https://user-images.githubusercontent.com/91866065/213928794-59f90aee-c836-4b0b-8b37-ab05500a459e.png)
+
 
