@@ -16,7 +16,7 @@
 
 ## <h1 align="center">Testnet/Devnet</h1>
 
-![Gitopia](https://user-images.githubusercontent.com/91866065/208509431-f052dc36-77ad-4ffb-a510-7ab5f2deb143.png)
+<a href="#">![Gitopia](https://user-images.githubusercontent.com/91866065/208509431-f052dc36-77ad-4ffb-a510-7ab5f2deb143.png)</a>
 ![Quicksilver](https://user-images.githubusercontent.com/91866065/208509434-91c93557-4faa-4af8-b05c-d25438fa0ef6.png)
 ![Celestia](https://user-images.githubusercontent.com/91866065/208509435-ddd74710-818b-438a-8263-9ff38853c29e.png)
 ![Rebus](https://user-images.githubusercontent.com/91866065/208509635-14d024a0-8428-4eab-91b4-bb801f877a93.png)
