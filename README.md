@@ -27,7 +27,7 @@
 [![Dusk](https://user-images.githubusercontent.com/91866065/208631609-1668cc4f-b8c0-40f7-9e64-b057cdf840b8.png)](https://dusk.network/)
 [![Empower](https://user-images.githubusercontent.com/91866065/208510423-e814ec61-ebff-4480-9e19-b80b2309e45b.png)](https://www.empowerchain.io/)
 [![Bundlr](https://user-images.githubusercontent.com/91866065/208511284-0b3b9313-2e1d-4a1f-affd-65c9e257a784.png)](https://bundlr.network/)
-[![Minima](https://user-images.githubusercontent.com/91866065/208512627-41ae5620-3353-403e-b930-a121a4367951.png)](https://www.minima.global/
+[![Minima](https://user-images.githubusercontent.com/91866065/208512627-41ae5620-3353-403e-b930-a121a4367951.png)](https://www.minima.global/)
 [![Sui](https://user-images.githubusercontent.com/91866065/208696034-c1ef2394-38c0-4b76-8dda-60290723a16c.png)](https://sui.io/)
 [![Humanode](https://user-images.githubusercontent.com/91866065/208512908-2dc0f053-993e-4f09-9360-3b6f7ec78def.png)](https://humanode.io/)
 [![Exorde](https://user-images.githubusercontent.com/91866065/208631058-c6b79e96-c800-4a99-a0da-395d1fc9f352.png)](https://exorde.network/)
