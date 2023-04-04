@@ -38,3 +38,5 @@
 [![Ironfish](https://user-images.githubusercontent.com/91866065/215096417-ec3180fa-c03c-4cb5-83b7-91f913e95b9b.png)](https://ironfish.network/)
 [![Quasar](https://user-images.githubusercontent.com/91866065/224821988-8c58bef5-0093-4e42-8af2-fd421a634534.png)](https://www.quasar.fi/)
 [![5ire](https://user-images.githubusercontent.com/91866065/224822012-1ad1453c-cbc7-4d88-93c0-2422cb4ebc69.png)](https://www.5ire.org/)
+[![Shardeum](https://user-images.githubusercontent.com/91866065/229800192-61b49248-01f9-4316-97a1-1db3100a3d18.png)](https://shardeum.org/)
+[![Dymension](https://user-images.githubusercontent.com/91866065/229800341-4f60b68d-12f7-4b3a-bced-40a61c539089.png)](https://dymension.xyz/)
