@@ -10,10 +10,6 @@
 * [**Discord**](https://discordapp.com/users/643428003329867787)
 * [**Twitter**](https://twitter.com/mulosbron)
 
-## <h1 align="center">Mainnet</h1>
-
-![humanode](https://user-images.githubusercontent.com/91866065/208512908-2dc0f053-993e-4f09-9360-3b6f7ec78def.png)
-
 ## <h1 align="center">Testnet/Devnet</h1>
 
 [![Gitopia](https://user-images.githubusercontent.com/91866065/208509431-f052dc36-77ad-4ffb-a510-7ab5f2deb143.png)](https://gitopia.com/)
