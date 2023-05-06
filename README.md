@@ -36,3 +36,5 @@
 [![5ire](https://user-images.githubusercontent.com/91866065/224822012-1ad1453c-cbc7-4d88-93c0-2422cb4ebc69.png)](https://www.5ire.org/)
 [![Shardeum](https://user-images.githubusercontent.com/91866065/229800192-61b49248-01f9-4316-97a1-1db3100a3d18.png)](https://shardeum.org/)
 [![Dymension](https://user-images.githubusercontent.com/91866065/229800341-4f60b68d-12f7-4b3a-bced-40a61c539089.png)](https://dymension.xyz/)
+[![Elixir](https://user-images.githubusercontent.com/91866065/236614079-71b44203-8777-4e0f-a00f-69ec75d0f84b.png)](https://elixir.finance/)
+
