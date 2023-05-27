@@ -37,4 +37,5 @@
 [![Shardeum](https://user-images.githubusercontent.com/91866065/229800192-61b49248-01f9-4316-97a1-1db3100a3d18.png)](https://shardeum.org/)
 [![Dymension](https://user-images.githubusercontent.com/91866065/229800341-4f60b68d-12f7-4b3a-bced-40a61c539089.png)](https://dymension.xyz/)
 [![Elixir](https://user-images.githubusercontent.com/91866065/236614079-71b44203-8777-4e0f-a00f-69ec75d0f84b.png)](https://elixir.finance/)
-[![Opside](https://github.com/mulosbron/mulosbron/assets/91866065/e6628315-d369-487f-be3c-0390dce8a96e)](https://opsi.de/)
+[![Opside](https://github-production-user-asset-6210df.s3.amazonaws.com/91866065/241380361-e6628315-d369-487f-be3c-0390dce8a96e.png)](https://opsi.de/)
+
