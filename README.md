@@ -1,12 +1,6 @@
 ## <h1 align="center">Individual Node Runner</h1>
 
-### **Hi! I'm Mulosbron. You can see the Testnets/Devnets I have participated in and the validators I have run on Mainnet below. I am also translating the node guides for various projects into Turkish.**
-
-### **Contact**
-* [**Discord**](https://discordapp.com/users/643428003329867787)
-* [**Twitter**](https://twitter.com/mulosbron)
-
-## <h1 align="center">Testnet/Devnet</h1>
+### **Hi. I'm mulosbron, a blockchain enthusiast. Here's a glimpse into my journey through various node testnets.**
 
 [![Gitopia](https://user-images.githubusercontent.com/91866065/208509431-f052dc36-77ad-4ffb-a510-7ab5f2deb143.png)](https://gitopia.com/)
 [![Quicksilver](https://user-images.githubusercontent.com/91866065/208509434-91c93557-4faa-4af8-b05c-d25438fa0ef6.png)](https://quicksilver.zone/)
