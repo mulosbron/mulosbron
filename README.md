@@ -2,10 +2,6 @@
 
 ### **Hi! I'm Mulosbron. You can see the Testnets/Devnets I have participated in and the validators I have run on Mainnet below. I am also translating the node guides for various projects into Turkish.**
 
-#### <h1 align="center">![](https://github-readme-stats.vercel.app/api?username=mulosbron&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/></h1>
-
-#### <h1 align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=mulosbron&theme=highcontrast&hide_border=false)<br/></h1>
-
 ### **Contact**
 * [**Discord**](https://discordapp.com/users/643428003329867787)
 * [**Twitter**](https://twitter.com/mulosbron)
