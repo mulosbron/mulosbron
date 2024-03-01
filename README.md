@@ -2,7 +2,6 @@
 
 ### **Hi. I'm mulosbron, a blockchain enthusiast. Here's a glimpse into my journey through various node testnets.**
 
-[![Engram](https://github-production-user-asset-6210df.s3.amazonaws.com/91866065/287795168-c986ce40-8d1d-4a57-9f8c-cdc41fa58f94.png)](https://engramnet.io/)
 [![Ar](https://github-production-user-asset-6210df.s3.amazonaws.com/91866065/279715276-dc7ac962-b031-4153-a3f1-49b9e549c25c.png)](https://ar.io/)
 [![Lumoz(Opside)](https://github-production-user-asset-6210df.s3.amazonaws.com/91866065/241380361-e6628315-d369-487f-be3c-0390dce8a96e.png)](https://opsi.de/)
 [![Dymension](https://user-images.githubusercontent.com/91866065/229800341-4f60b68d-12f7-4b3a-bced-40a61c539089.png)](https://dymension.xyz/)
